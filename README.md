@@ -90,3 +90,12 @@ Please ensure your contributions align with the project's overall objectives.
 
 This project is open-source and available under the MIT License. See the LICENSE file for more details.
 
+## Contact
+For any inquiries, suggestions, or feedbsck, feel free to reach out.
+### Author 
+Chinemerem .C. Nwaka
+- **Email**: [ccnwaka1988@gmail.com](mailto:ccnwaka1988@gmail.com)
+- **GitHub**: [https://github.com/Neme88](https://github.com/Neme88)
+- **LinkedIn**: [https://www.linkedin.com/in/Neme88/](https://www.linkedin.com/in/Neme88/)
+- **X**: [https://x.com/Neme_88](https://x.com/Neme_88)
+
