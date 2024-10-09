@@ -41,4 +41,20 @@ Ensure the following prerequisites are met:
 
    ```bash
    git clone https://github.com/Neme88/Fitraka-frontend.git
+   ```
+2. **Navigate to the project directory:**
+         
+         cd Fitraka-frontend
+
+3. **Install dependencies:**
+         
+         npm install
+### Configuration
+
+#### Environment Setup
+
+Ensure you have the necessary environment variable set in your .env file. for example
+
+         REACT_APP_API_URL=<backend API URL>
+
 
