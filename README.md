@@ -57,4 +57,36 @@ Ensure you have the necessary environment variable set in your .env file. for ex
 
          REACT_APP_API_URL=<backend API URL>
 
+### Usage
+
+To start the front-end application locally, run the following command:
+
+         npm start
+
+This will start the development server, and the application can be accessed at http://localhost:3000.
+### Dependecies
+
+The Fitraka Fitness Tracking Application's front-end relies on the following technologies:
+
+- React 17.0.2
+- Axios 0.21.1
+- Redux 4.1.0
+- React-Router-Dom 5.2.0
+### Known Issues
+- Users may encounter slow loading times on initial startup due to large asset sizes.
+- Some users have reported occasional issues with responsiveness on mobile devices.
+
+### Contributing
+
+We welcome contributions to enhance the front-end of the Fitraka application. To contribute:
+
+- Fork the repository.
+- Create a new branch for your feature or fix.
+- Submit a pull request with a detailed explanation of your changes.
+
+Please ensure your contributions align with the project's overall objectives.
+
+### License
+
+This project is open-source and available under the MIT License. See the LICENSE file for more details.
 
